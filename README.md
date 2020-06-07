@@ -5,7 +5,7 @@
 ------------------------------------------------------
 
 # TERMUXSTARTUP
-When You Start termux You need to install dependencies for better use.It will install all useful Dependencies such as PYTHON,PYTHON2,RUBY,GIT,PHP,PERL,NMAP,BASH,JQ,CLANG,MACCHANGER,NANO,CURL,TAR,ZIP,UNZIP,TOR,WGET,WCALC,OPENSSL,BMON,OPENSSH,AUTOSSH,MECHANICALSOUP,BEAUTIFULSOUP4,REQUEST,SELENIUM,COLORAMA,YARN,GOLANG,UNRAR,VTUTILS,GEDIT.
+When You Start termux You need to install dependencies for better use.It will install all useful Dependencies such as PYTHON,PYTHON2,RUBY,GIT,PHP,PERL,NMAP,BASH,JQ,CLANG,NANO,CURL,TAR,ZIP,UNZIP,TOR,WGET,WCALC,OPENSSL,BMON,OPENSSH,AUTOSSH,MECHANICALSOUP,BEAUTIFULSOUP4,REQUEST,SELENIUM,COLORAMA,YARN,GOLANG,UNRAR,VTUTILS.
 
 # Getting started
 
